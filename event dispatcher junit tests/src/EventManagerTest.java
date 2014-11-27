@@ -27,7 +27,6 @@ public class EventManagerTest {
 		this.point = new Point(100, 20);
 		new Thread(new Runnable() {
 
-
 			@Override
 			public void run() {
 				try {
@@ -41,16 +40,14 @@ public class EventManagerTest {
 		}).start();
 		new Thread(new Runnable() {
 
-
 			@Override
 			public void run() {
 				try {
 					Thread.sleep(500);
-					resultObject = new SampleObject(1, "string", 2.2f, point);
 				} catch (InterruptedException e) {
 					e.printStackTrace();
 				}
-				EventDestination.getInstance().dispatchEvent(EventType.TEST2, resultObject);
+				EventDestination.getInstance().dispatchEvent(EventType.TEST2, 1);
 			}
 		}).start();
 	}
@@ -82,31 +79,13 @@ public class EventManagerTest {
 				e.printStackTrace();
 			}
 		}
-		SampleObject sampleObject = null;
+		int result = 0;
 		try {
-			sampleObject = (SampleObject) eventResult.getTarget();
+			result = (int) eventResult.getTarget();
 		} catch (Exception e) {
 			
 		}
-		assertEquals(this.resultObject, sampleObject);;
-	}
-
-	@Test
-	public void test3() {
-		while (!isEventDispatchHander1 || !isEventDispatchHander2) {
-			try {
-				Thread.sleep(50);
-			} catch (InterruptedException e) {
-				e.printStackTrace();
-			}
-		}
-		SampleObject sampleObject = null;
-		try {
-			sampleObject = (SampleObject) eventResult.getTarget();
-		} catch (Exception e) {
-			
-		}
-		assertEquals(this.resultObject, sampleObject);;
+		assertEquals(1, result);;
 	}
 	
 	@Deprecated
