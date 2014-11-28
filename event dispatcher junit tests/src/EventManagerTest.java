@@ -90,12 +90,14 @@ public class EventManagerTest {
 	
 	@Deprecated
 	public void onEventDispathHander1(Event event) {
+		System.out.println(EventType.TEST1.toString());
 		this.eventResult = event;
 		this.isEventDispatchHander1 = true;
 	}
 	
 	@Deprecated
 	public void onEventDispathHander2(Event event) {
+		System.out.println(EventType.TEST2.toString());
 		this.eventResult = event;
 		this.isEventDispatchHander2 = true;
 	}
