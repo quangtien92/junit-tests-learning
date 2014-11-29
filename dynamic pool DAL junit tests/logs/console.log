@@ -1,0 +1,76 @@
+2014-Nov-29 18:10:02:409 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:10:03:363 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:10:03:363 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"5178","ip":"101.99.7.249"}
+2014-Nov-29 18:10:03:373 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:10:03:663 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:10:03:663 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:10:03:693 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:10:03:693 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:16:42:427 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:16:43:370 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:16:43:380 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"8218","ip":"101.99.7.249"}
+2014-Nov-29 18:16:43:380 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:16:43:670 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:16:43:670 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:16:43:690 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:16:43:690 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:18:20:653 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:18:21:535 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:18:21:535 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"8552","ip":"101.99.7.249"}
+2014-Nov-29 18:18:21:535 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:18:21:846 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:18:21:856 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:18:21:866 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:18:21:866 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:18:35:459 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:18:36:319 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:18:36:329 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"7041","ip":"101.99.7.249"}
+2014-Nov-29 18:18:36:329 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:18:36:611 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:18:36:611 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:18:36:631 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:18:36:631 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:19:09:588 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:19:10:638 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:19:10:648 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"2722","ip":"101.99.7.249"}
+2014-Nov-29 18:19:10:648 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:19:10:949 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:19:10:969 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:19:10:989 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:19:10:989 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:19:36:689 [main] ERROR vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - cannot join host
+2014-Nov-29 18:20:25:132 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:20:26:173 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:20:26:183 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"1348","ip":"101.99.7.249"}
+2014-Nov-29 18:20:26:183 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:20:26:463 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:20:26:473 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:20:26:483 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:20:26:483 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:20:43:044 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.ClientDataAccessLayerImpl  - join host
+2014-Nov-29 18:20:43:044 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.ClientMainController  - Reading config file from path conf/client.xml
+2014-Nov-29 18:20:43:085 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.ClientMainController  - Starting Socket Client...
+2014-Nov-29 18:20:44:925 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_auth?key=1348
+2014-Nov-29 18:20:44:925 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"port":9696,"error":null,"ip":"192.168.0.21"}
+2014-Nov-29 18:20:44:925 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 192.168.0.21, 9696
+2014-Nov-29 18:20:44:935 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:20:44:935 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.ClientMainController  - start socket successful
+2014-Nov-29 18:20:44:935 [main] INFO  vn.edu.hust.student.dynamicpool.dal.ClientDataAccessLayerImpl  - join host success
+2014-Nov-29 18:24:16:058 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:24:16:913 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:24:16:913 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"1430","ip":"101.99.7.249"}
+2014-Nov-29 18:24:16:923 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:24:17:214 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:24:17:214 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:24:17:234 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:24:17:234 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:24:17:304 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - send add device request
+2014-Nov-29 18:25:45:756 [main] INFO  vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Reading config file from path conf/server.xml
+2014-Nov-29 18:25:46:566 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - Sending 'GET' request to URL : http://104.131.13.155:8990/dp_reghost?port=9696&iplan=192.168.0.21
+2014-Nov-29 18:25:46:566 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.client.http.HttpClient  - HTTP RESPONSE: 200 - {"error":null,"key":"2771","ip":"101.99.7.249"}
+2014-Nov-29 18:25:46:576 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Connect socket to server 104.131.13.155, 2225
+2014-Nov-29 18:25:46:868 [main] INFO  vn.edu.hust.student.dynamicpool.dal.client.socket.SocketClientController  - Socket Client Start Sucessfully
+2014-Nov-29 18:25:46:878 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Starting Puppet Server.........
+2014-Nov-29 18:25:46:888 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.controller.HostMainController  - Puppet Server Started Successfully
+2014-Nov-29 18:25:46:888 [main] INFO  vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - create host success
+2014-Nov-29 18:25:46:898 [main] DEBUG vn.edu.hust.student.dynamicpool.dal.HostDataAccessLayerImpl  - send add device request
